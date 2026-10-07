@@ -1,0 +1,15 @@
+{
+  "name": "Advantage Duel",
+  "short_name": "Duel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0B12",
+  "theme_color": "#FF5B87",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
